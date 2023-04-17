@@ -11,7 +11,7 @@ st.set_page_config(
     layout='wide',
     initial_sidebar_state='expanded'
     )
-st.title("NLP")
+st.title("NLP Master: Unlocking the Secrets of Language")
 
 nav = st.sidebar.selectbox('Navigation',['Lemmatizer', 'POS_Tagging', 'Noun Phrase Chunking'])
 
